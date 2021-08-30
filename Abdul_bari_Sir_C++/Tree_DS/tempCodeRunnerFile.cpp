@@ -1,0 +1,1 @@
+node->right = buildUtil(in, post, iIndex + 1, inEnd, pIndex); 
